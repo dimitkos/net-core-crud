@@ -25,3 +25,12 @@ C:\Users\IBM_ADMIN\Desktop\get post employee\WebApplicationdeafaylt values\Manag
 C:\Users\IBM_ADMIN\Desktop\get post employee\WebApplicationdeafaylt values\Management.Data\obj\Debug\netcoreapp2.1\Management.Data.AssemblyInfo.cs
 C:\Users\IBM_ADMIN\Desktop\get post employee\WebApplicationdeafaylt values\Management.Data\obj\Debug\netcoreapp2.1\Management.Data.dll
 C:\Users\IBM_ADMIN\Desktop\get post employee\WebApplicationdeafaylt values\Management.Data\obj\Debug\netcoreapp2.1\Management.Data.pdb
+C:\Users\IBM_ADMIN\Desktop\git test big file\WebApplicationdeafaylt values\Management.Data\bin\Debug\netcoreapp2.1\Management.Data.deps.json
+C:\Users\IBM_ADMIN\Desktop\git test big file\WebApplicationdeafaylt values\Management.Data\bin\Debug\netcoreapp2.1\Management.Data.dll
+C:\Users\IBM_ADMIN\Desktop\git test big file\WebApplicationdeafaylt values\Management.Data\bin\Debug\netcoreapp2.1\Management.Data.pdb
+C:\Users\IBM_ADMIN\Desktop\git test big file\WebApplicationdeafaylt values\Management.Data\obj\Debug\netcoreapp2.1\Management.Data.csprojAssemblyReference.cache
+C:\Users\IBM_ADMIN\Desktop\git test big file\WebApplicationdeafaylt values\Management.Data\obj\Debug\netcoreapp2.1\Management.Data.csproj.CoreCompileInputs.cache
+C:\Users\IBM_ADMIN\Desktop\git test big file\WebApplicationdeafaylt values\Management.Data\obj\Debug\netcoreapp2.1\Management.Data.AssemblyInfoInputs.cache
+C:\Users\IBM_ADMIN\Desktop\git test big file\WebApplicationdeafaylt values\Management.Data\obj\Debug\netcoreapp2.1\Management.Data.AssemblyInfo.cs
+C:\Users\IBM_ADMIN\Desktop\git test big file\WebApplicationdeafaylt values\Management.Data\obj\Debug\netcoreapp2.1\Management.Data.dll
+C:\Users\IBM_ADMIN\Desktop\git test big file\WebApplicationdeafaylt values\Management.Data\obj\Debug\netcoreapp2.1\Management.Data.pdb

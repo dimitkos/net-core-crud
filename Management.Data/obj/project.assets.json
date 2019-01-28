@@ -1868,11 +1868,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IBM_ADMIN\\Desktop\\get  employee\\WebApplicationdeafaylt values\\Management.Data\\Management.Data.csproj",
+      "projectUniqueName": "C:\\Users\\IBM_ADMIN\\Desktop\\git test big file\\WebApplicationdeafaylt values\\Management.Data\\Management.Data.csproj",
       "projectName": "Management.Data",
-      "projectPath": "C:\\Users\\IBM_ADMIN\\Desktop\\get  employee\\WebApplicationdeafaylt values\\Management.Data\\Management.Data.csproj",
+      "projectPath": "C:\\Users\\IBM_ADMIN\\Desktop\\git test big file\\WebApplicationdeafaylt values\\Management.Data\\Management.Data.csproj",
       "packagesPath": "C:\\Users\\IBM_ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IBM_ADMIN\\Desktop\\get  employee\\WebApplicationdeafaylt values\\Management.Data\\obj\\",
+      "outputPath": "C:\\Users\\IBM_ADMIN\\Desktop\\git test big file\\WebApplicationdeafaylt values\\Management.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

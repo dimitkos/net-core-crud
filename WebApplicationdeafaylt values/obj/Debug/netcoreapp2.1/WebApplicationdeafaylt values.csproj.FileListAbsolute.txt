@@ -49,3 +49,20 @@ C:\Users\IBM_ADMIN\Desktop\get post employee\WebApplicationdeafaylt values\WebAp
 C:\Users\IBM_ADMIN\Desktop\get post employee\WebApplicationdeafaylt values\WebApplicationdeafaylt values\obj\Debug\netcoreapp2.1\WebApplicationdeafaylt values.csproj.CopyComplete
 C:\Users\IBM_ADMIN\Desktop\get post employee\WebApplicationdeafaylt values\WebApplicationdeafaylt values\obj\Debug\netcoreapp2.1\WebApplicationdeafaylt values.dll
 C:\Users\IBM_ADMIN\Desktop\get post employee\WebApplicationdeafaylt values\WebApplicationdeafaylt values\obj\Debug\netcoreapp2.1\WebApplicationdeafaylt values.pdb
+C:\Users\IBM_ADMIN\Desktop\git test big file\WebApplicationdeafaylt values\WebApplicationdeafaylt values\bin\Debug\netcoreapp2.1\WebApplicationdeafaylt values.deps.json
+C:\Users\IBM_ADMIN\Desktop\git test big file\WebApplicationdeafaylt values\WebApplicationdeafaylt values\bin\Debug\netcoreapp2.1\WebApplicationdeafaylt values.runtimeconfig.json
+C:\Users\IBM_ADMIN\Desktop\git test big file\WebApplicationdeafaylt values\WebApplicationdeafaylt values\bin\Debug\netcoreapp2.1\WebApplicationdeafaylt values.runtimeconfig.dev.json
+C:\Users\IBM_ADMIN\Desktop\git test big file\WebApplicationdeafaylt values\WebApplicationdeafaylt values\bin\Debug\netcoreapp2.1\WebApplicationdeafaylt values.dll
+C:\Users\IBM_ADMIN\Desktop\git test big file\WebApplicationdeafaylt values\WebApplicationdeafaylt values\bin\Debug\netcoreapp2.1\WebApplicationdeafaylt values.pdb
+C:\Users\IBM_ADMIN\Desktop\git test big file\WebApplicationdeafaylt values\WebApplicationdeafaylt values\bin\Debug\netcoreapp2.1\Management.Data.dll
+C:\Users\IBM_ADMIN\Desktop\git test big file\WebApplicationdeafaylt values\WebApplicationdeafaylt values\bin\Debug\netcoreapp2.1\Management.Data.pdb
+C:\Users\IBM_ADMIN\Desktop\git test big file\WebApplicationdeafaylt values\WebApplicationdeafaylt values\obj\Debug\netcoreapp2.1\WebApplicationdeafaylt values.csprojAssemblyReference.cache
+C:\Users\IBM_ADMIN\Desktop\git test big file\WebApplicationdeafaylt values\WebApplicationdeafaylt values\obj\Debug\netcoreapp2.1\WebApplicationdeafaylt values.csproj.CoreCompileInputs.cache
+C:\Users\IBM_ADMIN\Desktop\git test big file\WebApplicationdeafaylt values\WebApplicationdeafaylt values\obj\Debug\netcoreapp2.1\WebApplicationdeafaylt values.RazorAssemblyInfo.cache
+C:\Users\IBM_ADMIN\Desktop\git test big file\WebApplicationdeafaylt values\WebApplicationdeafaylt values\obj\Debug\netcoreapp2.1\WebApplicationdeafaylt values.RazorAssemblyInfo.cs
+C:\Users\IBM_ADMIN\Desktop\git test big file\WebApplicationdeafaylt values\WebApplicationdeafaylt values\obj\Debug\netcoreapp2.1\WebApplicationdeafaylt values.AssemblyInfoInputs.cache
+C:\Users\IBM_ADMIN\Desktop\git test big file\WebApplicationdeafaylt values\WebApplicationdeafaylt values\obj\Debug\netcoreapp2.1\WebApplicationdeafaylt values.AssemblyInfo.cs
+C:\Users\IBM_ADMIN\Desktop\git test big file\WebApplicationdeafaylt values\WebApplicationdeafaylt values\obj\Debug\netcoreapp2.1\WebApplicationdeafaylt values.RazorTargetAssemblyInfo.cache
+C:\Users\IBM_ADMIN\Desktop\git test big file\WebApplicationdeafaylt values\WebApplicationdeafaylt values\obj\Debug\netcoreapp2.1\WebApplicationdeafaylt values.csproj.CopyComplete
+C:\Users\IBM_ADMIN\Desktop\git test big file\WebApplicationdeafaylt values\WebApplicationdeafaylt values\obj\Debug\netcoreapp2.1\WebApplicationdeafaylt values.dll
+C:\Users\IBM_ADMIN\Desktop\git test big file\WebApplicationdeafaylt values\WebApplicationdeafaylt values\obj\Debug\netcoreapp2.1\WebApplicationdeafaylt values.pdb
