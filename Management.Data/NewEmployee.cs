@@ -11,6 +11,5 @@ namespace Management.Data
         public string phone { get; set; }
         public string email { get; set; }
         public string job { get; set; }
-        private int days { get; set; }
     }
 }
